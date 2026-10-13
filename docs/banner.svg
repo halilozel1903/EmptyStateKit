@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="EmptyStateKit: empty, error and offline states for SwiftUI on iPhone and Mac" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0Nzk4ZWZlNS00M2QxLTQ5NTMtYmM0Ny01NDM4YzgxMWVhM2YAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaM1lPj5ZZ04pT62QzgqbuZ0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmMjI5YjRmNS05NTVmLTRjZDctYjg4OC04ODJlYWIzNDI2MmVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo38tTEYslYV7pepN/Vz3htwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggZloYxGlXMEFgtliarNApT+Plr8NHKNpONTSU24jmOiikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaE+XkJxwUUCX+mV6bJpgEzUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBCjC8hbvb57T4Qu4WYPo8iVAAjLWaQca7/dqH45KjftWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj9Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ3OThlZmU1LTQzZDEtNDk1My1iYzQ3LTU0MzhjODExZWEzZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk5YWIwMWVmLTEwMTQtNDNhZi1hYjEyLWJmMWRlNDNhNjY2NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBmWhjEaVcwQWC2WJqs0ClP4+Wvw0co2k41NJTbiOY6KKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggPGxho6hDh/HWhMg8+thJGRvxEc6iCu6ICrCkXu/TBU+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEL3DOXZffvV/e5Vd7DJ3vyEY1KF9rXRC3WG6ykBa/Mt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAYumsNU5DjjnL5kGlqkGNHwl/aEaYbTRiseIStlP6Dwhx4qjZfUjcLH+McT6rAHXI9joYQCZgISsM/l53mvlfM=</c2pa:manifest></metadata>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1630"/><stop offset="1" stop-color="#1d2a5c"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6c8cff" stop-opacity="0.35"/><stop offset="1" stop-color="#6c8cff" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#030616" flood-opacity="0.6"/></filter>
+</defs>
+<rect width="1280" height="560" fill="url(#bg)"/>
+<circle cx="960" cy="280" r="340" fill="url(#glow)"/>
+<g filter="url(#shadow)"><rect x="760" y="62" width="470" height="340" rx="16" fill="#1e1f24"/></g>
+<rect x="760" y="62" width="470" height="340" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+<path d="M 760 78 a 16 16 0 0 1 16 -16 h 438 a 16 16 0 0 1 16 16 v 26 h -470 Z" fill="#2a2b31"/>
+<circle cx="782" cy="83" r="6" fill="#ff5f57"/>
+<circle cx="802" cy="83" r="6" fill="#febc2e"/>
+<circle cx="822" cy="83" r="6" fill="#28c840"/>
+<rect x="950" y="73" width="140" height="20" rx="6" fill="#3a3b42"/><rect x="952" y="75" width="46" height="16" rx="5" fill="#5b5c66"/>
+<rect x="780" y="118" width="137" height="135" rx="14" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.09"/>
+<defs><linearGradient id="fm0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A84FF" stop-opacity="0.8"/><stop offset="1" stop-color="#0A84FF"/></linearGradient></defs>
+<circle cx="848.5" cy="160.0" r="29.44" fill="#0A84FF" fill-opacity="0.2"/>
+<circle cx="822.26" cy="151.04" r="1.408" fill="#0A84FF" fill-opacity="0.4"/>
+<circle cx="876.02" cy="166.4" r="1.152" fill="#0A84FF" fill-opacity="0.4"/>
+<circle cx="871.54" cy="137.6" r="0.832" fill="#0A84FF" fill-opacity="0.4"/>
+<circle cx="826.74" cy="183.04" r="0.96" fill="#0A84FF" fill-opacity="0.4"/>
+<rect x="829.3" y="140.8" width="26.88" height="33.28" rx="3.2" fill="#333333" stroke="#0A84FF" stroke-opacity="0.28" stroke-width="0.896"/>
+<rect x="833.78" y="147.2" width="17.28" height="2.24" rx="1.12" fill="#0A84FF" fill-opacity="0.28"/>
+<rect x="833.78" y="152.96" width="13.44" height="2.24" rx="1.12" fill="#0A84FF" fill-opacity="0.28"/>
+<rect x="833.78" y="158.72" width="16.0" height="2.24" rx="1.12" fill="#0A84FF" fill-opacity="0.28"/>
+<rect x="833.78" y="164.48" width="9.6" height="2.24" rx="1.12" fill="#0A84FF" fill-opacity="0.28"/>
+<circle cx="853.62" cy="163.84" r="12.16" fill="#333333" fill-opacity="0.55"/>
+<circle cx="853.62" cy="163.84" r="12.16" fill="#0A84FF" fill-opacity="0.14"/>
+<circle cx="853.62" cy="163.84" r="12.16" fill="none" stroke="url(#fm0)" stroke-width="3.52"/>
+<path d="M 862.9 173.12 L 869.62 179.84" stroke="#0A84FF" stroke-width="5.12" stroke-linecap="round"/>
+<path d="M 846.20 161.85 L 846.37 161.32 L 846.57 160.80 L 846.81 160.29 L 847.08 159.81 L 847.39 159.34 L 847.74 158.90 L 848.11 158.49 L 848.51 158.10 L 848.94 157.75 L 849.40 157.42 L 849.88 157.13 L 850.37 156.88 " fill="none" stroke="#fff" stroke-opacity="0.5" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="808.5" y="200" width="80" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.85"/>
+<rect x="794.5" y="215" width="108" height="6" rx="3" fill="#ffffff" fill-opacity="0.3"/>
+<rect x="816.5" y="229" width="64" height="15" rx="7.5" fill="#0A84FF"/>
+<rect x="929" y="118" width="137" height="135" rx="14" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.09"/>
+<defs><linearGradient id="fm1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#40C8E0" stop-opacity="0.8"/><stop offset="1" stop-color="#40C8E0"/></linearGradient></defs>
+<circle cx="997.5" cy="160.0" r="29.44" fill="#40C8E0" fill-opacity="0.2"/>
+<circle cx="971.26" cy="151.04" r="1.408" fill="#40C8E0" fill-opacity="0.4"/>
+<circle cx="1025.02" cy="166.4" r="1.152" fill="#40C8E0" fill-opacity="0.4"/>
+<circle cx="1020.54" cy="137.6" r="0.832" fill="#40C8E0" fill-opacity="0.4"/>
+<circle cx="975.74" cy="183.04" r="0.96" fill="#40C8E0" fill-opacity="0.4"/>
+<rect x="985.98" y="137.6" width="23.04" height="16.0" rx="2.24" fill="none" stroke="#40C8E0" stroke-opacity="0.55" stroke-width="1.024" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.24 1.92"/>
+<path d="M 987.26 139.52 L 997.5 146.56 L 1007.74 139.52" fill="none" stroke="#40C8E0" stroke-opacity="0.55" stroke-width="1.024" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.24 1.92"/>
+<rect x="977.66" y="156.8" width="39.68" height="10.24" rx="3.2" fill="#40C8E0" fill-opacity="0.45"/>
+<path d="M 977.34 161.92 L 986.30 161.92 Q 989.18 161.92 990.37 164.54 L 991.19 166.34 Q 992.38 168.96 995.26 168.96 L 999.74 168.96 Q 1002.62 168.96 1003.81 166.34 L 1004.63 164.54 Q 1005.82 161.92 1008.70 161.92 L 1017.66 161.92 Q 1020.54 161.92 1020.54 164.80 L 1020.54 178.24 Q 1020.54 181.12 1017.66 181.12 L 977.34 181.12 Q 974.46 181.12 974.46 178.24 L 974.46 164.80 Q 974.46 161.92 977.34 161.92 Z" fill="url(#fm1)"/>
+<rect x="957.5" y="200" width="80" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.85"/>
+<rect x="943.5" y="215" width="108" height="6" rx="3" fill="#ffffff" fill-opacity="0.3"/>
+<rect x="965.5" y="229" width="64" height="15" rx="7.5" fill="#40C8E0"/>
+<rect x="1078" y="118" width="137" height="135" rx="14" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.09"/>
+<defs><linearGradient id="fm2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5E5CE6" stop-opacity="0.8"/><stop offset="1" stop-color="#5E5CE6"/></linearGradient></defs>
+<circle cx="1146.5" cy="160.0" r="29.44" fill="#5E5CE6" fill-opacity="0.2"/>
+<circle cx="1120.26" cy="151.04" r="1.408" fill="#5E5CE6" fill-opacity="0.4"/>
+<circle cx="1174.02" cy="166.4" r="1.152" fill="#5E5CE6" fill-opacity="0.4"/>
+<circle cx="1169.54" cy="137.6" r="0.832" fill="#5E5CE6" fill-opacity="0.4"/>
+<circle cx="1124.74" cy="183.04" r="0.96" fill="#5E5CE6" fill-opacity="0.4"/>
+<circle cx="1136.9" cy="161.92000000000002" r="9.6" fill="url(#fm2)" />
+<circle cx="1149.7" cy="155.52" r="12.8" fill="url(#fm2)" />
+<circle cx="1160.58" cy="163.84" r="8.32" fill="url(#fm2)" />
+<rect x="1127.3" y="161.28" width="41.6" height="10.88" rx="5.44" fill="url(#fm2)" />
+<path d="M 1130.5 142.08 L 1165.06 179.2" stroke="#25262b" stroke-width="8.32" stroke-linecap="round"/>
+<path d="M 1130.5 142.08 L 1165.06 179.2" stroke="#5E5CE6" stroke-width="3.52" stroke-linecap="round"/>
+<rect x="1106.5" y="200" width="80" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.85"/>
+<rect x="1092.5" y="215" width="108" height="6" rx="3" fill="#ffffff" fill-opacity="0.3"/>
+<rect x="1114.5" y="229" width="64" height="15" rx="7.5" fill="#5E5CE6"/>
+<rect x="780" y="265" width="137" height="135" rx="14" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.09"/>
+<defs><linearGradient id="fm3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF9F0A" stop-opacity="0.8"/><stop offset="1" stop-color="#FF9F0A"/></linearGradient></defs>
+<circle cx="848.5" cy="307.0" r="29.44" fill="#FF9F0A" fill-opacity="0.2"/>
+<circle cx="822.26" cy="298.04" r="1.408" fill="#FF9F0A" fill-opacity="0.4"/>
+<circle cx="876.02" cy="313.4" r="1.152" fill="#FF9F0A" fill-opacity="0.4"/>
+<circle cx="871.54" cy="284.6" r="0.832" fill="#FF9F0A" fill-opacity="0.4"/>
+<circle cx="826.74" cy="330.04" r="0.96" fill="#FF9F0A" fill-opacity="0.4"/>
+<ellipse cx="848.5" cy="330.36" rx="16.64" ry="1.6" fill="#FF9F0A" fill-opacity="0.22"/>
+<path d="M 850.88 290.05 L 869.16 322.03 Q 871.54 326.20 866.74 326.20 L 830.26 326.20 Q 825.46 326.20 827.84 322.03 L 846.12 290.05 Q 848.50 285.88 850.88 290.05 Z" fill="url(#fm3)"/>
+<rect x="846.26" y="298.68" width="4.48" height="14.72" rx="2.24" fill="#1f1f1f" />
+<circle cx="848.5" cy="319.15999999999997" r="2.688" fill="#1f1f1f" />
+<rect x="808.5" y="347" width="80" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.85"/>
+<rect x="794.5" y="362" width="108" height="6" rx="3" fill="#ffffff" fill-opacity="0.3"/>
+<rect x="816.5" y="376" width="64" height="15" rx="7.5" fill="#FF9F0A"/>
+<rect x="929" y="265" width="137" height="135" rx="14" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.09"/>
+<defs><linearGradient id="fm4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#BF5AF2" stop-opacity="0.8"/><stop offset="1" stop-color="#BF5AF2"/></linearGradient></defs>
+<circle cx="997.5" cy="307.0" r="29.44" fill="#BF5AF2" fill-opacity="0.2"/>
+<circle cx="971.26" cy="298.04" r="1.408" fill="#BF5AF2" fill-opacity="0.4"/>
+<circle cx="1025.02" cy="313.4" r="1.152" fill="#BF5AF2" fill-opacity="0.4"/>
+<circle cx="1020.54" cy="284.6" r="0.832" fill="#BF5AF2" fill-opacity="0.4"/>
+<circle cx="975.74" cy="330.04" r="0.96" fill="#BF5AF2" fill-opacity="0.4"/>
+<path d="M 988.54 307.0 L 988.54 298.68 L 988.54 298.68 L 988.56 298.05 L 988.63 297.43 L 988.74 296.82 L 988.89 296.21 L 989.08 295.62 L 989.31 295.04 L 989.59 294.47 L 989.90 293.93 L 990.25 293.41 L 990.64 292.92 L 991.05 292.46 L 991.50 292.02 L 991.98 291.62 L 992.49 291.25 L 993.02 290.92 L 993.57 290.63 L 994.14 290.37 L 994.73 290.16 L 995.33 289.99 L 995.94 289.86 L 996.56 289.77 L 997.19 289.73 L 997.81 289.73 L 998.44 289.77 L 999.06 289.86 L 999.67 289.99 L 1000.27 290.16 L 1000.86 290.37 L 1001.43 290.63 L 1001.98 290.92 L 1002.51 291.25 L 1003.02 291.62 L 1003.50 292.02 L 1003.95 292.46 L 1004.36 292.92 L 1004.75 293.41 L 1005.10 293.93 L 1005.41 294.47 L 1005.69 295.04 L 1005.92 295.62 L 1006.11 296.21 L 1006.26 296.82 L 1006.37 297.43 L 1006.44 298.05 L 1006.46 298.68 L 1006.46 307.0" fill="none" stroke="#BF5AF2" stroke-opacity="0.75" stroke-width="4.8" stroke-linecap="round"/>
+<rect x="980.86" y="303.8" width="33.28" height="24.96" rx="5.76" fill="url(#fm4)" />
+<circle cx="997.5" cy="313.4" r="3.52" fill="#1f1f1f" />
+<rect x="995.9" y="313.4" width="3.2" height="8.32" rx="1.6" fill="#1f1f1f" />
+<rect x="957.5" y="347" width="80" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.85"/>
+<rect x="943.5" y="362" width="108" height="6" rx="3" fill="#ffffff" fill-opacity="0.3"/>
+<rect x="965.5" y="376" width="64" height="15" rx="7.5" fill="#BF5AF2"/>
+<rect x="1078" y="265" width="137" height="135" rx="14" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.09"/>
+<defs><linearGradient id="fm5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF375F" stop-opacity="0.8"/><stop offset="1" stop-color="#FF375F"/></linearGradient></defs>
+<circle cx="1146.5" cy="307.0" r="29.44" fill="#FF375F" fill-opacity="0.2"/>
+<circle cx="1120.26" cy="298.04" r="1.408" fill="#FF375F" fill-opacity="0.4"/>
+<circle cx="1174.02" cy="313.4" r="1.152" fill="#FF375F" fill-opacity="0.4"/>
+<circle cx="1169.54" cy="284.6" r="0.832" fill="#FF375F" fill-opacity="0.4"/>
+<circle cx="1124.74" cy="330.04" r="0.96" fill="#FF375F" fill-opacity="0.4"/>
+<path d="M 1144.58 290.36 Q 1147.268 306.872 1163.78 309.56 Q 1147.268 312.248 1144.58 328.76 Q 1141.8919999999998 312.248 1125.3799999999999 309.56 Q 1141.8919999999998 306.872 1144.58 290.36 Z" fill="url(#fm5)" />
+<path d="M 1162.5 283.96 Q 1163.4856 290.0144 1169.54 291.0 Q 1163.4856 291.9856 1162.5 298.04 Q 1161.5144 291.9856 1155.46 291.0 Q 1161.5144 290.0144 1162.5 283.96 Z" fill="#FF375F" fill-opacity="0.75"/>
+<path d="M 1129.86 286.84 Q 1130.4424 290.4176 1134.02 291.0 Q 1130.4424 291.5824 1129.86 295.16 Q 1129.2776 291.5824 1125.6999999999998 291.0 Q 1129.2776 290.4176 1129.86 286.84 Z" fill="#FF375F" fill-opacity="0.5"/>
+<circle cx="1164.42" cy="323.64" r="1.792" fill="#FF375F" fill-opacity="0.5"/>
+<rect x="1106.5" y="347" width="80" height="9" rx="4.5" fill="#ffffff" fill-opacity="0.85"/>
+<rect x="1092.5" y="362" width="108" height="6" rx="3" fill="#ffffff" fill-opacity="0.3"/>
+<rect x="1114.5" y="376" width="64" height="15" rx="7.5" fill="#FF375F"/>
+<g filter="url(#shadow)"><rect x="672" y="170" width="200" height="372" rx="36" fill="#0b0b0d"/></g>
+<rect x="679" y="177" width="186" height="358" rx="30" fill="#f6f6f9"/>
+<rect x="742.0" y="186" width="60" height="17" rx="8.5" fill="#0b0b0d"/>
+<rect x="746.0" y="216" width="52" height="8" rx="4" fill="#1c1c1e"/>
+<rect x="696" y="238" width="152" height="28" rx="14" fill="#ffffff" stroke="#000" stroke-opacity="0.08"/>
+<circle cx="710" cy="252" r="9" fill="#FF9500"/>
+<rect x="725" y="247" width="70" height="6" rx="3" fill="#1c1c1e"/><rect x="725" y="256" width="50" height="4" rx="2" fill="#8e8e93"/>
+<defs><linearGradient id="fp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF9500" stop-opacity="0.72"/><stop offset="1" stop-color="#FF9500"/></linearGradient></defs>
+<circle cx="772.0" cy="337.0" r="50.6" fill="#FF9500" fill-opacity="0.11"/>
+<circle cx="726.9" cy="321.6" r="2.42" fill="#FF9500" fill-opacity="0.4"/>
+<circle cx="819.3" cy="348.0" r="1.9799999999999998" fill="#FF9500" fill-opacity="0.4"/>
+<circle cx="811.6" cy="298.5" r="1.43" fill="#FF9500" fill-opacity="0.4"/>
+<circle cx="734.6" cy="376.6" r="1.65" fill="#FF9500" fill-opacity="0.4"/>
+<ellipse cx="772.0" cy="377.15" rx="28.6" ry="2.75" fill="#FF9500" fill-opacity="0.22"/>
+<path d="M 776.09 307.86 L 807.51 362.84 Q 811.60 370.00 803.35 370.00 L 740.65 370.00 Q 732.40 370.00 736.49 362.84 L 767.91 307.86 Q 772.00 300.70 776.09 307.86 Z" fill="url(#fp)"/>
+<rect x="768.15" y="322.7" width="7.700000000000001" height="25.3" rx="3.8500000000000005" fill="#ffffff" />
+<circle cx="772.0" cy="357.9" r="4.62" fill="#ffffff" />
+<rect x="714.0" y="406" width="116" height="11" rx="5.5" fill="#1c1c1e"/>
+<rect x="702.0" y="426" width="140" height="6" rx="3" fill="#8e8e93" fill-opacity="0.8"/>
+<rect x="720.0" y="438" width="104" height="6" rx="3" fill="#8e8e93" fill-opacity="0.8"/>
+<rect x="710.0" y="460" width="124" height="34" rx="17" fill="#FF9500"/>
+<line x1="741.0" y1="477.0" x2="744.5" y2="477.0" stroke="#fff" stroke-opacity="0.25" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="739.5" y1="480.5" x2="742.0" y2="483.0" stroke="#fff" stroke-opacity="0.36" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="736.0" y1="482.0" x2="736.0" y2="485.5" stroke="#fff" stroke-opacity="0.46" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="732.5" y1="480.5" x2="730.0" y2="483.0" stroke="#fff" stroke-opacity="0.57" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="731.0" y1="477.0" x2="727.5" y2="477.0" stroke="#fff" stroke-opacity="0.68" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="732.5" y1="473.5" x2="730.0" y2="471.0" stroke="#fff" stroke-opacity="0.79" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="736.0" y1="472.0" x2="736.0" y2="468.5" stroke="#fff" stroke-opacity="0.89" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="739.5" y1="473.5" x2="742.0" y2="471.0" stroke="#fff" stroke-opacity="1.00" stroke-width="2.2" stroke-linecap="round"/>
+<text x="752.0" y="482" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">Retrying…</text>
+<rect x="748.0" y="504" width="48" height="5" rx="2.5" fill="#8e8e93" fill-opacity="0.6"/>
+<text x="72" y="200" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff">EmptyState<tspan fill="#8fa8ff">Kit</tspan></text>
+<text x="75" y="248" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#cdd5f5">Empty, error and offline states for SwiftUI</text>
+<text x="75" y="282" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#cdd5f5">on iPhone and Mac.</text>
+<rect x="75" y="320" width="226" height="38" rx="19" fill="#8fa8ff" fill-opacity="0.16" stroke="#8fa8ff" stroke-opacity="0.55"/>
+<text x="188" y="345" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#eef1ff">Vector illustrations</text>
+<rect x="313.0" y="320" width="149" height="38" rx="19" fill="#8fa8ff" fill-opacity="0.16" stroke="#8fa8ff" stroke-opacity="0.55"/>
+<text x="388" y="345" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#eef1ff">Retry states</text>
+<rect x="75" y="370" width="168" height="38" rx="19" fill="#8fa8ff" fill-opacity="0.16" stroke="#8fa8ff" stroke-opacity="0.55"/>
+<text x="159" y="395" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#eef1ff">Offline banner</text>
+<rect x="255.4" y="370" width="245" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.22"/>
+<text x="378" y="395" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#cdd5f5">ContentUnavailableView</text>
+<rect x="75" y="420" width="149" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.22"/>
+<text x="150" y="445" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#cdd5f5">Dynamic Type</text>
+<rect x="236.2" y="420" width="120" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.22"/>
+<text x="296" y="445" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#cdd5f5">Dark mode</text>
+<text x="75" y="486" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#8d98c4">Swift 6.2 · iOS 17+ · macOS 14+ · Swift Package Manager</text>
+</svg>
